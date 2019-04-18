@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/github.com/knative/serving/cmd/autoscaler@sha256:442f99e3a55653b19137b44c1d00f681b594d322cb39c1297820eb717e2134ba
+MAINTAINER doop
